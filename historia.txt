@@ -1,1 +1,2 @@
-Habia una vez un estudiante de geoinformación en web que quería aprender Github
+Habia una vez un estudiante de geoinformación en web que quería aprender GitHub
+Pero primero tuvo que instalar Git en su computadora
